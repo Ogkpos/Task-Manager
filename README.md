@@ -20,3 +20,5 @@ Task manager application built using NODE JS and MongoDB. It follows a RESTFul A
 | POST    | /tasks     | public  | Create a task      |
 
 ## Postman Collection Link
+
+https://documenter.getpostman.com/view/25556342/2sA3QmEawr
